@@ -1,0 +1,27 @@
+#!/usr/bin/env python
+import os
+
+#Clear the screen
+os.system('clear')
+
+def screen(scr):
+    1 = '''
+##############################################################################
+##############################################################################
+____ ____ ___  ____ ____ _  _ ____ ___ 
+|__/ |__|   /  |  | |__/ |\ | |___  |  
+|  \ |  |  /__ |__| |  \ | \| |___  |  
+                                       
+Razornet BBS Verson Alpha.01
+Author: John Galbraith
+##############################################################################
+Q = Quit, E = Email, B = Boards, C = Chat, D = Documents, G = Games
+run = True
+while run is True:
+    print ''' Q = Quit, E = Email, B = Boards, C = Chat, D = Documents, G = Games '''
+    option = str(raw_input('&> '))
+    print option
+    if option.lower() == 'q':
+        run = False
+
+
