@@ -1,6 +1,6 @@
 # razornetBBS
 I am bored again and wanted to see what a BBS would look like written in Python. This project is just for fun. So, let's have fun. 
-
+<pre>
 ##############################################################################
 ##############################################################################
 ____ ____ ___  ____ ____ _  _ ____ ___
@@ -10,6 +10,6 @@ ____ ____ ___  ____ ____ _  _ ____ ___
 Razornet BBS Verson Alpha.01
 Author: John Galbraith
 ##############################################################################
-Q = Quit, E = Email, B = Boards, C = Chat, D = Documents, G = Gamespacket_write_wait: Connection to 107.170.188.219 port 22: Broken pipe
-
+Q = Quit, E = Email, B = Boards, C = Chat, D = Documents, G = Games
+</pre>
 
